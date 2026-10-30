@@ -1,0 +1,10 @@
+{
+  "glucosa": 120.5,
+  "presion_sistolica": 120,
+  "presion_diastolica": 80,
+  "peso": 70.5,
+  "frecuencia_cardiaca": 75,
+  "oxigenacion": 98.5,
+  "tipo_registro": "manual",
+  "observaciones": "Control rutinario desde curl"
+}
